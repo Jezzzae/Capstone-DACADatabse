@@ -16,4 +16,4 @@
 
 
 ## WIRE-FRAME 🖼 
-![Screenshot (3)](https://user-images.githubusercontent.com/29801753/151251785-61207671-1792-4683-91e2-5e827a6bdbf3.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/29801753/151252511-89b2fd70-5d15-42bd-9b15-43cfb9bd853d.png)
