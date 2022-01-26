@@ -14,8 +14,7 @@
 * User should be able to share any of the above resources by Twitter 🐦 or email 📧 
 
 ## ERD ➡ 
-![Screenshot (1)](https://user-images.githubusercontent.com/29801753/151246157-7eeae150-09a3-4fe7-968f-7a054248b4db.png)
-
+![Screenshot (6)](https://user-images.githubusercontent.com/29801753/151257880-04d17c07-1870-4054-9ff8-f227a02b29cc.png)
 
 ## WIRE-FRAME 🖼 
 ![Screenshot (4)](https://user-images.githubusercontent.com/29801753/151252511-89b2fd70-5d15-42bd-9b15-43cfb9bd853d.png)
