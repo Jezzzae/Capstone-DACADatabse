@@ -1,4 +1,4 @@
-# Capstone-DACA-Databse
+# Capstone-DACA-Database
 
 ## Project Goals 🥉 
 
