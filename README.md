@@ -10,8 +10,6 @@
 * User should be able to search for daca grants/funding opportunities in the app.
 * User should be able to search for daca clinics in their area
 * User should be able to view updated news on any New legal DACA updates by the senate.
-* User should be able to sign up for emails 
-* User should be able to share any of the above resources by Twitter 🐦 or email 📧 
 
 ## ERD ➡ 
 ![Screenshot (11)](https://user-images.githubusercontent.com/29801753/151643559-d0aa45a4-328f-4bc1-b003-43c1d03d4a7e.png)
