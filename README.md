@@ -27,6 +27,10 @@
 * ANGULAR CLI
 * BOOTSTRAP
 
+## ROAD BLOCKS 🚙 
+* Getting my endpoints organized, it took me more time trying to see how I wanted them to also be on my front - end, I actually did more work than I should have but noticed a little to late
+* I was very inimidated about intergration and pushed it off to last - after actually typing some stuff up it wasn't as bad as i thought it would be (●'◡'●)
+
 ### INSPIRATION 🎆
 * https://www.boundless.com/
 * https://www.fwd.us/
