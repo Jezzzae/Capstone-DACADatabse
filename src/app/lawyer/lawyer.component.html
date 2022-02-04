@@ -1,0 +1,33 @@
+<div class = "container">
+    <div class="card">
+        <h3>Lawyers List</h3>
+<div class="card-body">
+    <table class="table table-striped">
+      <thead>
+          <th>
+              Id
+          </th>
+          <th>
+              author
+          </th>
+          <th>
+              date
+          </th>
+          <th>
+              url
+          </th>
+      </thead>
+      <tbody>
+          <tr *ngFor="let lawyer of lawyers"> 
+              <td>{{lawyer.id}}</td>    
+              <td>{{lawyer.author}}</td>   
+              <td>{{lawyer.date}}</td>        
+              <td>{{lawyer.url}}</td>          
+
+         </tr> 
+      </tbody>
+
+    </table>
+</div>
+</div>
+</div> 

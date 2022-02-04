@@ -1,0 +1,34 @@
+
+<div class = "container">
+    <div class="card">
+        <h3>News List</h3>
+<div class="card-body">
+    <table class="table table-striped">
+      <thead>
+          <th>
+              Id
+          </th>
+          <th>
+              author
+          </th>
+          <th>
+              date
+          </th>
+          <th>
+              url
+          </th>
+      </thead>
+      <tbody>
+          <tr *ngFor="let news of news"> 
+              <td>{{news.id}}</td>    
+              <td>{{news.author}}</td>   
+              <td>{{news.date}}</td>        
+              <td>{{news.url}}</td>          
+
+         </tr> 
+      </tbody>
+
+    </table>
+</div>
+</div>
+</div> 

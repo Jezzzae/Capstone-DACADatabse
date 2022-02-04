@@ -1,0 +1,34 @@
+<div class = "container">
+    <div class="card">
+        <h3>Grants List</h3>
+<div class="card-body">
+    <table class="table table-striped">
+      <thead>
+          <th>
+              Id
+          </th>
+          <th>
+              author
+          </th>
+          <th>
+              date
+          </th>
+          <th>
+              url
+          </th>
+      </thead>
+      <tbody>
+          <tr *ngFor="let grant of grants"> 
+              <td>{{grant.id}}</td>    
+              <td>{{grant.author}}</td>   
+              <td>{{grant.date}}</td>        
+              <td>{{grant.url}}</td>          
+
+         </tr> 
+      </tbody>
+
+    </table>
+</div>
+</div>
+</div> 
+

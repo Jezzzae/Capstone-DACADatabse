@@ -1,0 +1,34 @@
+
+<div class = "container">
+    <div class="card">
+        <h3>Clinics List</h3>
+<div class="card-body">
+    <table class="table table-striped">
+      <thead>
+          <th>
+              Id
+          </th>
+          <th>
+              author
+          </th>
+          <th>
+              date
+          </th>
+          <th>
+              url
+          </th>
+      </thead>
+      <tbody>
+          <tr *ngFor="let clinic of clinics"> 
+              <td>{{clinic.id}}</td>    
+              <td>{{clinic.author}}</td>   
+              <td>{{clinic.date}}</td>        
+              <td>{{clinic.url}}</td>          
+
+         </tr> 
+      </tbody>
+
+    </table>
+</div>
+</div>
+</div> 
