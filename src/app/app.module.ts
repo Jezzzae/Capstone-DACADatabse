@@ -9,6 +9,7 @@ import { ResourceRoutingModule } from './resources/resources.routing.module';
 import { ResourceComponent } from './resources/resource.component';
 import { GrantComponent } from './grant/grant.component';
 import { ClinicComponent } from './clinic/clinic.component';
+import { HomepageComponent } from './homepage/homepage.component';
 
 
 
@@ -19,6 +20,7 @@ import { ClinicComponent } from './clinic/clinic.component';
     LawyerComponent,
     GrantComponent,
     ClinicComponent,
+    HomepageComponent,
     
   ],
   imports: [
